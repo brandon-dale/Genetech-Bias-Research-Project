@@ -1,7 +1,9 @@
-# Genetech-Bias-Research-Project
+# Summer 2023 SSU Genetech Bias Research Project
 A series of files relating to the 2023 summer Genetech Research Project on assessing and mitigating bias within deep learning based skin cancer detection and classification.
 
 This project was in colaboration with Sloan Howard and Dr. Gurman Gill at Sonoma State University.
+
+However, since this project dealt with a great deal of medical data, many files which involved processing and analyzing that data have not been uploaded in order to preserve the privacy of that data. Further, I have only included the files or results that I directly worked on myself. All work on this project that was not my own has not been included in this repository. This includes the project's paper and informational poster (done by Sloan Howard) and other files she worked on. If you are interested in seeing any of the files which I have not publicly released or the paper/informational poster, email me and I can send them to you.
 
 ---
 
